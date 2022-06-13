@@ -1,0 +1,9 @@
+div#box {
+    width: 300px;
+    border-radius: 10px;
+    background-color: black;
+    height: 200px;
+    padding: 20px;
+    font-size: 30px;
+    border:2px;
+}
